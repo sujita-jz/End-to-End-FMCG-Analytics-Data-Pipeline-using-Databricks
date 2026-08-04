@@ -1,8 +1,8 @@
-##🏭 Unified Analytics Pipeline — Atlikon × Sports Bar
+# 🏭 Unified Analytics Pipeline — Atlikon × Sports Bar
 
-#End-to-End Data Engineering Project on Databricks (FMCG Domain)
+## End-to-End Data Engineering Project on Databricks (FMCG Domain)
 
-#📖 Project Overview
+# 📖 Project Overview
 
 This project delivers a production-grade, end-to-end data engineering pipeline on Databricks (Free Edition) to unify the data infrastructure of Atlikon (parent company, sports equipment manufacturer) and its newly acquired subsidiary Sports Bar (energy bar startup FMCG).
 
